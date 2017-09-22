@@ -12,8 +12,12 @@ _Currently,_ working as a Test Lead in WebFlutter Media Corp. performing QA, E2E
 Have an extensive experience in Quality Assurance Testing and Web Development having worked as a Software Engineer in one of the leading MNCs in India - Tech Mahindra Ltd. 
 
 As the part of my first project in Tech Mahindra, I had the opportunity to develop a website solely, working with the services of J2EE.
+
+I am pursuing my Master of Science in Information Systems and looking for Internships/full-time opportunities with a growth oriented organization in the field of
 - UI Design/Development &
-- Data Analytics
+- Data Analytics,
+
+through which I can pursue challenging and pivotal assignments in the field of UX and Analytics.
 
 As for myself, I am a sportsperson which means - I am passionate, a team-player, love to take responsibilities in crunch times, diligent, organized and hard   working. I like to lead from the front. And, doggedly keen on learning new technologies and gain hands-on expertise.
 <hr>
