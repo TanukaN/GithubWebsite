@@ -1,6 +1,7 @@
-# Hi
+## Hi
 I am Tanuka Nayak
-### Welcome to my website
+==========================
+#### Welcome to my website
 
 ## Home Page | [Moodle](http://njit2.mrooms.net/) | [NJIT](http://www.njit.edu/) | [Highlander Pipeline](https://www6.njit.edu/cp/login.php)
 <hr>
