@@ -21,4 +21,4 @@ through which I can pursue challenging and pivotal assignments in the field of U
 
 As for myself, I am a sportsperson which means - I am passionate, a team-player, love to take responsibilities in crunch times, diligent, organized and hard   working. I like to lead from the front. And, doggedly keen on learning new technologies and gain hands-on expertise.
 <hr>
-Connect with me on **[LinkedIn](https://www.linkedin.com/in/tanuka-nayak/)
+Connect with me on **[LinkedIn](https://www.linkedin.com/in/tanuka-nayak/)**
