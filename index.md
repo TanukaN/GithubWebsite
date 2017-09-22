@@ -1,3 +1,3 @@
-# Hi
-I am Tanuka Nayak
+# Hi I am Tanuka Nayak
+
 ### Welcome to my website
